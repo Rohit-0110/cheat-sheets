@@ -1,4 +1,4 @@
-# OpenSSL Cheat-Sheet
+# OpenSSL
 
 ## Certificate Management
 
